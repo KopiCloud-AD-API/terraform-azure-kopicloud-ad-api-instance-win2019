@@ -16,7 +16,8 @@ The code will create the network resources (Resource Group, VNET, Subnet).
 
 ## Configuring Azure Credentials
 
-Getting Started with Terraform and Microsoft Azure - Section #6
+Read the document **Getting Started with Terraform and Microsoft Azure - Section 6** to configure credentials.
+
 https://medium.com/@gmusumeci/getting-started-with-terraform-and-microsoft-azure-a2fcb690eb67
 
 ## How to Set Up KopiCloud AD API
